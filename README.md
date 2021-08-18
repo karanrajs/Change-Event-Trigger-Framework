@@ -4,7 +4,7 @@ In general, saving a record in salesforce cause a series of transactions(Trigger
 
 <br/>
 <center>
-<img src="https://code.td.com/users/sankak2/repos/asynctriggerframework/raw/asset/ChangeDataCapture.png">
+<img src="https://github.com/karanrajs/Change-Event-Trigger-Framework/blob/main/asset/ChangeDataCapture.png">
 </center>
 <br/>
 
